@@ -1,2 +1,2 @@
 # Readme
-A comparison between Non-Cached and Cached.
+A comparison between Uncached and Cached.
